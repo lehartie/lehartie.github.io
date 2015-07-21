@@ -1,2 +1,2 @@
 # lehartie.github.io
-blog
+The blog located at [http://lehartie.github.io](http://lehartie.github.io).
